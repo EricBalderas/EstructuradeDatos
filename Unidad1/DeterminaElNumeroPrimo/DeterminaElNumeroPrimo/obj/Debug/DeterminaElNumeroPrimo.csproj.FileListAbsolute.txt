@@ -1,0 +1,7 @@
+D:\Programacion\EstructuraDeDatos\DeterminaElNumeroPrimo\DeterminaElNumeroPrimo\bin\Debug\DeterminaElNumeroPrimo.exe.config
+D:\Programacion\EstructuraDeDatos\DeterminaElNumeroPrimo\DeterminaElNumeroPrimo\bin\Debug\DeterminaElNumeroPrimo.exe
+D:\Programacion\EstructuraDeDatos\DeterminaElNumeroPrimo\DeterminaElNumeroPrimo\bin\Debug\DeterminaElNumeroPrimo.pdb
+D:\Programacion\EstructuraDeDatos\DeterminaElNumeroPrimo\DeterminaElNumeroPrimo\obj\Debug\DeterminaElNumeroPrimo.csproj.AssemblyReference.cache
+D:\Programacion\EstructuraDeDatos\DeterminaElNumeroPrimo\DeterminaElNumeroPrimo\obj\Debug\DeterminaElNumeroPrimo.csproj.CoreCompileInputs.cache
+D:\Programacion\EstructuraDeDatos\DeterminaElNumeroPrimo\DeterminaElNumeroPrimo\obj\Debug\DeterminaElNumeroPrimo.exe
+D:\Programacion\EstructuraDeDatos\DeterminaElNumeroPrimo\DeterminaElNumeroPrimo\obj\Debug\DeterminaElNumeroPrimo.pdb

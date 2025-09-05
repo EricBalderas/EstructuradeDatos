@@ -1,0 +1,14 @@
+D:\Programacion\EstructuraDeDatos\Estructuras de control\Estructuras de control\bin\Debug\net8.0\Estructuras de control.exe
+D:\Programacion\EstructuraDeDatos\Estructuras de control\Estructuras de control\bin\Debug\net8.0\Estructuras de control.deps.json
+D:\Programacion\EstructuraDeDatos\Estructuras de control\Estructuras de control\bin\Debug\net8.0\Estructuras de control.runtimeconfig.json
+D:\Programacion\EstructuraDeDatos\Estructuras de control\Estructuras de control\bin\Debug\net8.0\Estructuras de control.dll
+D:\Programacion\EstructuraDeDatos\Estructuras de control\Estructuras de control\bin\Debug\net8.0\Estructuras de control.pdb
+D:\Programacion\EstructuraDeDatos\Estructuras de control\Estructuras de control\obj\Debug\net8.0\Estructuras de control.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\EstructuraDeDatos\Estructuras de control\Estructuras de control\obj\Debug\net8.0\Estructuras de control.AssemblyInfoInputs.cache
+D:\Programacion\EstructuraDeDatos\Estructuras de control\Estructuras de control\obj\Debug\net8.0\Estructuras de control.AssemblyInfo.cs
+D:\Programacion\EstructuraDeDatos\Estructuras de control\Estructuras de control\obj\Debug\net8.0\Estructuras de control.csproj.CoreCompileInputs.cache
+D:\Programacion\EstructuraDeDatos\Estructuras de control\Estructuras de control\obj\Debug\net8.0\Estructuras de control.dll
+D:\Programacion\EstructuraDeDatos\Estructuras de control\Estructuras de control\obj\Debug\net8.0\refint\Estructuras de control.dll
+D:\Programacion\EstructuraDeDatos\Estructuras de control\Estructuras de control\obj\Debug\net8.0\Estructuras de control.pdb
+D:\Programacion\EstructuraDeDatos\Estructuras de control\Estructuras de control\obj\Debug\net8.0\Estructuras de control.genruntimeconfig.cache
+D:\Programacion\EstructuraDeDatos\Estructuras de control\Estructuras de control\obj\Debug\net8.0\ref\Estructuras de control.dll

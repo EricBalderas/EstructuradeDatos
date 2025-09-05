@@ -1,0 +1,7 @@
+D:\Programacion\EstructuraDeDatos\ExamenDeDiag2\ExamenDeDiag2\bin\Debug\ExamenDeDiag2.exe.config
+D:\Programacion\EstructuraDeDatos\ExamenDeDiag2\ExamenDeDiag2\bin\Debug\ExamenDeDiag2.exe
+D:\Programacion\EstructuraDeDatos\ExamenDeDiag2\ExamenDeDiag2\bin\Debug\ExamenDeDiag2.pdb
+D:\Programacion\EstructuraDeDatos\ExamenDeDiag2\ExamenDeDiag2\obj\Debug\ExamenDeDiag2.csproj.AssemblyReference.cache
+D:\Programacion\EstructuraDeDatos\ExamenDeDiag2\ExamenDeDiag2\obj\Debug\ExamenDeDiag2.csproj.CoreCompileInputs.cache
+D:\Programacion\EstructuraDeDatos\ExamenDeDiag2\ExamenDeDiag2\obj\Debug\ExamenDeDiag2.exe
+D:\Programacion\EstructuraDeDatos\ExamenDeDiag2\ExamenDeDiag2\obj\Debug\ExamenDeDiag2.pdb
