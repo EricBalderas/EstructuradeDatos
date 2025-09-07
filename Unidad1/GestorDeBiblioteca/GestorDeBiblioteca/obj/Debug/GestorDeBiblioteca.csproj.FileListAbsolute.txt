@@ -1,0 +1,15 @@
+D:\Programacion\EstructuraDatos\Unidad1\GestorDeBiblioteca\GestorDeBiblioteca\bin\Debug\GestorDeBiblioteca.exe.config
+D:\Programacion\EstructuraDatos\Unidad1\GestorDeBiblioteca\GestorDeBiblioteca\bin\Debug\GestorDeBiblioteca.exe
+D:\Programacion\EstructuraDatos\Unidad1\GestorDeBiblioteca\GestorDeBiblioteca\bin\Debug\GestorDeBiblioteca.pdb
+D:\Programacion\EstructuraDatos\Unidad1\GestorDeBiblioteca\GestorDeBiblioteca\obj\Debug\GestorDeBiblioteca.csproj.AssemblyReference.cache
+D:\Programacion\EstructuraDatos\Unidad1\GestorDeBiblioteca\GestorDeBiblioteca\obj\Debug\GestorDeBiblioteca.Form1.resources
+D:\Programacion\EstructuraDatos\Unidad1\GestorDeBiblioteca\GestorDeBiblioteca\obj\Debug\GestorDeBiblioteca.Properties.Resources.resources
+D:\Programacion\EstructuraDatos\Unidad1\GestorDeBiblioteca\GestorDeBiblioteca\obj\Debug\GestorDeBiblioteca.csproj.GenerateResource.cache
+D:\Programacion\EstructuraDatos\Unidad1\GestorDeBiblioteca\GestorDeBiblioteca\obj\Debug\GestorDeBiblioteca.csproj.CoreCompileInputs.cache
+D:\Programacion\EstructuraDatos\Unidad1\GestorDeBiblioteca\GestorDeBiblioteca\obj\Debug\GestorDeBiblioteca.exe
+D:\Programacion\EstructuraDatos\Unidad1\GestorDeBiblioteca\GestorDeBiblioteca\obj\Debug\GestorDeBiblioteca.pdb
+D:\Programacion\EstructuraDatos\Unidad1\GestorDeBiblioteca\GestorDeBiblioteca\obj\Debug\GestorDeBiblioteca.exe.config
+D:\Programacion\EstructuraDatos\Unidad1\GestorDeBiblioteca\GestorDeBiblioteca\obj\Debug\GestorDeBiblioteca.formRegistrarLibro.resources
+D:\Programacion\EstructuraDatos\Unidad1\GestorDeBiblioteca\GestorDeBiblioteca\obj\Debug\GestorDeBiblioteca.formDevolucionLibro.resources
+D:\Programacion\EstructuraDatos\Unidad1\GestorDeBiblioteca\GestorDeBiblioteca\obj\Debug\GestorDeBiblioteca.formPrestamoLibro.resources
+D:\Programacion\EstructuraDatos\Unidad1\GestorDeBiblioteca\GestorDeBiblioteca\obj\Debug\GestorDeBiblioteca.formRegistroUsuario.resources
