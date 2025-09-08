@@ -1,0 +1,15 @@
+D:\Programacion\EstructuraDatos\Unidad1\ListaYPromedio\ListaYPromedio\bin\Debug\net8.0\ListaYPromedio.exe
+D:\Programacion\EstructuraDatos\Unidad1\ListaYPromedio\ListaYPromedio\bin\Debug\net8.0\ListaYPromedio.deps.json
+D:\Programacion\EstructuraDatos\Unidad1\ListaYPromedio\ListaYPromedio\bin\Debug\net8.0\ListaYPromedio.runtimeconfig.json
+D:\Programacion\EstructuraDatos\Unidad1\ListaYPromedio\ListaYPromedio\bin\Debug\net8.0\ListaYPromedio.dll
+D:\Programacion\EstructuraDatos\Unidad1\ListaYPromedio\ListaYPromedio\bin\Debug\net8.0\ListaYPromedio.pdb
+D:\Programacion\EstructuraDatos\Unidad1\ListaYPromedio\ListaYPromedio\obj\Debug\net8.0\ListaYPromedio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\EstructuraDatos\Unidad1\ListaYPromedio\ListaYPromedio\obj\Debug\net8.0\ListaYPromedio.AssemblyInfoInputs.cache
+D:\Programacion\EstructuraDatos\Unidad1\ListaYPromedio\ListaYPromedio\obj\Debug\net8.0\ListaYPromedio.AssemblyInfo.cs
+D:\Programacion\EstructuraDatos\Unidad1\ListaYPromedio\ListaYPromedio\obj\Debug\net8.0\ListaYPromedio.csproj.CoreCompileInputs.cache
+D:\Programacion\EstructuraDatos\Unidad1\ListaYPromedio\ListaYPromedio\obj\Debug\net8.0\ListaYPromedio.sourcelink.json
+D:\Programacion\EstructuraDatos\Unidad1\ListaYPromedio\ListaYPromedio\obj\Debug\net8.0\ListaYPromedio.dll
+D:\Programacion\EstructuraDatos\Unidad1\ListaYPromedio\ListaYPromedio\obj\Debug\net8.0\refint\ListaYPromedio.dll
+D:\Programacion\EstructuraDatos\Unidad1\ListaYPromedio\ListaYPromedio\obj\Debug\net8.0\ListaYPromedio.pdb
+D:\Programacion\EstructuraDatos\Unidad1\ListaYPromedio\ListaYPromedio\obj\Debug\net8.0\ListaYPromedio.genruntimeconfig.cache
+D:\Programacion\EstructuraDatos\Unidad1\ListaYPromedio\ListaYPromedio\obj\Debug\net8.0\ref\ListaYPromedio.dll
